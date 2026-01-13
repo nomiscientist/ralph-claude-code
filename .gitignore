@@ -35,7 +35,7 @@ __pycache__/
 target/
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
+config.bat
